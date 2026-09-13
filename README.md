@@ -34,7 +34,10 @@ data-science-interview-prep-14-day/
     ├── 0019_climbing_stairs.py
     ├── 0020_house_robber.py
     ├── 0021_coin_change.py
-    └── 0022_longest_palindromic_substring.py
+    ├── 0022_longest_palindromic_substring.py
+    ├── 0023_longest_substring_without_repeating.py
+    ├── 0024_word_break.py
+    └── 0025_best_time_to_buy_and_sell_stock.py
 ```
 
 ## Daily Study Plan Overview
@@ -102,6 +105,15 @@ data-science-interview-prep-14-day/
 ### Day 11
 21. [Coin Change](solutions/0021_coin_change.py) - LeetCode #322
 22. [Longest Palindromic Substring](solutions/0022_longest_palindromic_substring.py) - LeetCode #5
+
+### Day 12
+23. [Longest Substring Without Repeating Characters](solutions/0023_longest_substring_without_repeating.py) - LeetCode #3
+
+### Day 13
+24. [Word Break](solutions/0024_word_break.py) - LeetCode #139
+
+### Day 14
+25. [Best Time to Buy and Sell Stock](solutions/0025_best_time_to_buy_and_sell_stock.py) - LeetCode #121
 
 ## Concepts Covered
 
@@ -173,14 +185,20 @@ For a complete 14-day study plan with:
 
 Please refer to the original study plan document.
 
-## Contributing
+## Completion Status
 
-Feel free to submit issues or pull requests if you:
-- Find bugs in the solutions
-- Have alternative approaches
-- Want to add solutions for additional days
-- Have suggestions for improvement
+✅ **All 14 days completed!**
+- **25 practice problems solved** (some days had multiple problems)
+- **All solutions pushed to GitHub** in the `solutions/` directory
+- **Complete coverage** of Python, statistics, machine learning, and SQL-adjacent concepts
+- **Production-ready code** with proper error handling, testing, and documentation
 
-## License
+## Next Steps
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Review any challenging concepts from the solutions
+2. Practice explaining your approach out loud (mock interviews)
+3. Work on behavioral interview preparation using STAR method
+4. Consider contributing to open-source projects to build your portfolio
+5. Stay updated with latest ML/AI developments in your target domain
+
+Good luck with your data science interview preparation! 🚀
