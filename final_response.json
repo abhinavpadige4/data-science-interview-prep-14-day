@@ -1,0 +1,131 @@
+{
+  "type": "study_solutions",
+  "title": "14-Day Data Science Interview Preparation",
+  "repo_url": "https://github.com/abhinavpadige4/data-science-interview-prep-14-day",
+  "problems_solved": 25,
+  "files_created": [
+    {
+      "name": "solutions/0001_two_sum.py",
+      "description": "Two Sum solution - LeetCode #1 (Day 1)"
+    },
+    {
+      "name": "solutions/0002_reverse_integer.py",
+      "description": "Reverse Integer solution - LeetCode #7 (Day 1)"
+    },
+    {
+      "name": "solutions/0003_two_sum_ii.py",
+      "description": "Two Sum II - Input Array Is Sorted solution - LeetCode #167 (Day 2)"
+    },
+    {
+      "name": "solutions/0004_min_size_subarray_sum.py",
+      "description": "Minimum Size Subarray Sum solution - LeetCode #209 (Day 2)"
+    },
+    {
+      "name": "solutions/0005_intersection_of_two_arrays_ii.py",
+      "description": "Intersection of Two Arrays II solution - LeetCode #350 (Day 3)"
+    },
+    {
+      "name": "solutions/0006_binary_search.py",
+      "description": "Binary Search solution - LeetCode #704 (Day 3)"
+    },
+    {
+      "name": "solutions/0007_valid_sudoku.py",
+      "description": "Valid Sudoku solution - LeetCode #36 (Day 4)"
+    },
+    {
+      "name": "solutions/0008_group_anagrams.py",
+      "description": "Group Anagrams solution - LeetCode #49 (Day 4)"
+    },
+    {
+      "name": "solutions/0009_reverse_linked_list.py",
+      "description": "Reverse Linked List solution - LeetCode #206 (Day 5)"
+    },
+    {
+      "name": "solutions/0010_merge_sorted_lists.py",
+      "description": "Merge Two Sorted Lists solution - LeetCode #21 (Day 5)"
+    },
+    {
+      "name": "solutions/0011_valid_parentheses.py",
+      "description": "Valid Parentheses solution - LeetCode #20 (Day 6)"
+    },
+    {
+      "name": "solutions/0012_queue_using_stacks.py",
+      "description": "Implement Queue using Stacks solution - LeetCode #232 (Day 6)"
+    },
+    {
+      "name": "solutions/0013_max_depth_binary_tree.py",
+      "description": "Maximum Depth of Binary Tree solution - LeetCode #104 (Day 7)"
+    },
+    {
+      "name": "solutions/0014_invert_binary_tree.py",
+      "description": "Invert Binary Tree solution - LeetCode #226 (Day 7)"
+    },
+    {
+      "name": "solutions/0015_kth_largest.py",
+      "description": "Kth Largest Element in an Array solution - LeetCode #215 (Day 8)"
+    },
+    {
+      "name": "solutions/0016_top_k_frequent.py",
+      "description": "Top K Frequent Elements solution - LeetCode #347 (Day 8)"
+    },
+    {
+      "name": "solutions/0017_number_of_islands.py",
+      "description": "Number of Islands solution - LeetCode #200 (Day 9)"
+    },
+    {
+      "name": "solutions/0018_course_schedule.py",
+      "description": "Course Schedule solution - LeetCode #207 (Day 9)"
+    },
+    {
+      "name": "solutions/0019_climbing_stairs.py",
+      "description": "Climbing Stairs solution - LeetCode #70 (Day 10)"
+    },
+    {
+      "name": "solutions/0020_house_robber.py",
+      "description": "House Robber solution - LeetCode #198 (Day 10)"
+    },
+    {
+      "name": "solutions/0021_coin_change.py",
+      "description": "Coin Change solution - LeetCode #322 (Day 11)"
+    },
+    {
+      "name": "solutions/0022_longest_palindromic_substring.py",
+      "description": "Longest Palindromic Substring solution - LeetCode #5 (Day 11)"
+    },
+    {
+      "name": "solutions/0023_longest_substring_without_repeating.py",
+      "description": "Longest Substring Without Repeating Characters solution - LeetCode #3 (Day 12)"
+    },
+    {
+      "name": "solutions/0024_word_break.py",
+      "description": "Word Break solution - LeetCode #139 (Day 13)"
+    },
+    {
+      "name": "solutions/0025_best_time_to_buy_and_sell_stock.py",
+      "description": "Best Time to Buy and Sell Stock solution - LeetCode #121 (Day 14)"
+    }
+  ],
+  "concepts_covered": [
+    "arrays",
+    "strings",
+    "hash tables",
+    "linked lists",
+    "stacks",
+    "queues",
+    "trees",
+    "graphs",
+    "dynamic programming",
+    "binary search",
+    "sliding window",
+    "two pointers",
+    "sorting algorithms",
+    "descriptive statistics",
+    "probability theory",
+    "data manipulation",
+    "algorithm analysis",
+    "time complexity",
+    "space complexity",
+    "problem solving",
+    "interview preparation"
+  ]
+}
